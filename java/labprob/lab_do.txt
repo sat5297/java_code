@@ -1,0 +1,5 @@
+kruskals
+
+tsp
+hamiltonion
+
